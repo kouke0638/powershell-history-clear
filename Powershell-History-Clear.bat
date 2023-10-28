@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -Command "Clear-Content %appdata%\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt"
